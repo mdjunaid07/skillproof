@@ -1,0 +1,1 @@
+-- TODO: Add database extensions and initial setup after schema design is finalised.
