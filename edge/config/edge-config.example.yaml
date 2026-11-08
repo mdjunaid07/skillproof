@@ -1,0 +1,4 @@
+# Example edge configuration; use non-secret values only.
+centre_id: centre-demo
+device_id: edge-demo-001
+capture_interval_minutes: 15
